@@ -1,6 +1,7 @@
 # Socioeconomic Indicators Analysis Project
 
 ![world_bank_photo](world_bank_photo.png)
+
 Welcome to the Socioeconomic Indicators Analysis Project! This repository contains code and resources for analyzing and visualizing the distribution of key socioeconomic indicators for various countries. 
 
 
