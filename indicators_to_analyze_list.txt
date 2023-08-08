@@ -10,5 +10,4 @@
 10. Tax revenue (% of GDP)
 11. Population growth (annual %)
 12. Net migration
-13. Electric power consumption (kWh per capita)
-14. Inflation, consumer prices (annual %)
+13. Inflation, consumer prices (annual %)
