@@ -1,1 +1,1 @@
-![Image Alt Text](world_bank_photo.jpg)
+![world_bank_photo](world_bank_photo.jpg)
