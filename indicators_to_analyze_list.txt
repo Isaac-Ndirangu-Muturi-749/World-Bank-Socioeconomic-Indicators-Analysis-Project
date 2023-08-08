@@ -1,38 +1,14 @@
-Unemployment, total (% of total labor force) (modeled ILO estimate)
-
-
-Inflation, consumer prices (annual %)
-
-GDP per capita (current US$)
-
-GDP growth (annual %)
-
-CO2 emissions (metric tons per capita)
-
-
-Access to electricity (% of population)
-
-Individuals using the Internet (% of population)
-
-Life expectancy at birth, total (years)
-
-Poverty headcount ratio at $2.15 a day (2017 PPP) (% of population)
-
-Net migration
-
-Human Capital Index (HCI) (scale 0-1)
-
-Urban population (% of total population)
-
-Electric power consumption (kWh per capita)
-
-Literacy rate, adult female (% of females ages 15 and above)
-
-Literacy rate, adult male (% of males ages 15 and above)
-
-Total greenhouse gas emissions (kt of CO2 equivalent)
-
-Tax revenue (% of GDP)
-
-Population growth (annual %)
-
+1. Unemployment, total (% of total labor force) (modeled ILO estimate)
+2. GDP growth (annual %)
+3. Access to electricity (% of population)
+4. Individuals using the Internet (% of population)
+5. Life expectancy at birth, total (years)
+6. Poverty headcount ratio at $2.15 a day (2017 PPP) (% of population)
+7. Urban population (% of total population)
+8. Literacy rate, adult female (% of females ages 15 and above)
+9. Literacy rate, adult male (% of males ages 15 and above)
+10. Tax revenue (% of GDP)
+11. Population growth (annual %)
+12. Net migration
+13. Electric power consumption (kWh per capita)
+14. Inflation, consumer prices (annual %)
